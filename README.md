@@ -1,7 +1,5 @@
 # Quêtes Docker
 
-Rendus des quêtes Docker (fil rouge `demo-api`).
+Mes rendus pour les quêtes Docker (Ynov, 2e année). Chaque dossier contient un petit journal de ce que j'ai fait et les sorties demandées.
 
-| Quête | Dossier |
-|---|---|
-| 1 - Découverte de Docker | [01-decouverte-docker](01-decouverte-docker/) |
+- [Quête 1 – Découverte de Docker](01-decouverte-docker/)
