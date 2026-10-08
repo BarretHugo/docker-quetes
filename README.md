@@ -5,3 +5,4 @@ Mes rendus pour les quêtes Docker (Ynov, 2e année). Chaque dossier contient un
 - [Quête 1 – Découverte de Docker](01-decouverte-docker/)
 - [Quête 2 – Le Dockerfile](02-le-dockerfile/)
 - [Quête 3 – Dockerfile et sécurité](03-dockerfile-securite/)
+- [Quête 5 – Les volumes](05-volumes/)
