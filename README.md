@@ -9,3 +9,4 @@ Mes rendus pour les quêtes Docker (Ynov, 2e année). Chaque dossier contient un
 - [Quête 5 – Les volumes](05-volumes/)
 - [Quête 6 – Les réseaux](06-reseaux/)
 - [Quête 7 – Compose](07-compose/)
+- [Quête 8 – Trivy](08-trivy/)
